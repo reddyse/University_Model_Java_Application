@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="UTF-8" ?><University>
+	<Student>
+		<id>1624020854199</id>
+		<name>Nerea</name>
+		<collegename>College of Engineering</collegename>
+		<deptname>Supply Chain Management</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>02/01/16</coursestart>
+		<coursedurationmonths>24</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1676082334099</id>
+		<name>Jena</name>
+		<collegename>College of Engineering</collegename>
+		<deptname>Information Systems</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>03/30/16</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1601111408899</id>
+		<name>Kirby</name>
+		<collegename>College of Law</collegename>
+		<deptname>Supply Chain Management</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>12/29/15</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1682110319999</id>
+		<name>Charles</name>
+		<collegename>College of Law</collegename>
+		<deptname>Supply Chain Management</deptname>
+		<programlevel>Graduate</programlevel>
+		<coursestart>01/15/16</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1694072346199</id>
+		<name>Audra</name>
+		<collegename>College of Law</collegename>
+		<deptname>Information Systems</deptname>
+		<programlevel>Graduate</programlevel>
+		<coursestart>02/02/16</coursestart>
+		<coursedurationmonths>24</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1660080900999</id>
+		<name>Wayne</name>
+		<collegename>College of Law</collegename>
+		<deptname>Engineering Management</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>03/24/16</coursestart>
+		<coursedurationmonths>24</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1601110699499</id>
+		<name>Henry</name>
+		<collegename>College of Professional Studies</collegename>
+		<deptname>Information Systems</deptname>
+		<programlevel>Graduate</programlevel>
+		<coursestart>02/13/16</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1618080780299</id>
+		<name>Michael</name>
+		<collegename>College of Professional Studies</collegename>
+		<deptname>Computer Science</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>11/27/15</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1680011093799</id>
+		<name>Matthew</name>
+		<collegename>College of Professional Studies</collegename>
+		<deptname>Information Systems</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>01/11/16</coursestart>
+		<coursedurationmonths>24</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1603023012299</id>
+		<name>Palmer</name>
+		<collegename>College of Engineering</collegename>
+		<deptname>Engineering Management</deptname>
+		<programlevel>Graduate</programlevel>
+		<coursestart>03/04/16</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1637061958599</id>
+		<name>Ebony</name>
+		<collegename>College of Law</collegename>
+		<deptname>Computer Science</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>06/13/16</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1630061496699</id>
+		<name>Bell</name>
+		<collegename>College of Engineering</collegename>
+		<deptname>Engineering Management</deptname>
+		<programlevel>Graduate</programlevel>
+		<coursestart>09/16/16</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1647111551299</id>
+		<name>Castor</name>
+		<collegename>College of Professional Studies</collegename>
+		<deptname>Supply Chain Management</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>12/19/15</coursestart>
+		<coursedurationmonths>24</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1683082680599</id>
+		<name>Zelenia</name>
+		<collegename>College of Engineering</collegename>
+		<deptname>Information Systems</deptname>
+		<programlevel>Graduate</programlevel>
+		<coursestart>08/22/16</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1696063097999</id>
+		<name>Emerson</name>
+		<collegename>College of Professional Studies</collegename>
+		<deptname>Computer Science</deptname>
+		<programlevel>Graduate</programlevel>
+		<coursestart>06/28/16</coursestart>
+		<coursedurationmonths>24</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1685092935899</id>
+		<name>Wylie</name>
+		<collegename>College of Engineering</collegename>
+		<deptname>Engineering Management</deptname>
+		<programlevel>Graduate</programlevel>
+		<coursestart>05/11/16</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1657110103299</id>
+		<name>Callum</name>
+		<collegename>College of Engineering</collegename>
+		<deptname>Engineering Management</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>06/22/16</coursestart>
+		<coursedurationmonths>24</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1673042215499</id>
+		<name>Nayda</name>
+		<collegename>College of Professional Studies</collegename>
+		<deptname>Supply Chain Management</deptname>
+		<programlevel>Graduate</programlevel>
+		<coursestart>08/24/16</coursestart>
+		<coursedurationmonths>24</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1629082834199</id>
+		<name>Taylor</name>
+		<collegename>College of Engineering</collegename>
+		<deptname>Engineering Management</deptname>
+		<programlevel>Graduate</programlevel>
+		<coursestart>07/29/16</coursestart>
+		<coursedurationmonths>24</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1668010266399</id>
+		<name>Eagan</name>
+		<collegename>College of Law</collegename>
+		<deptname>Engineering Management</deptname>
+		<programlevel>Graduate</programlevel>
+		<coursestart>02/22/16</coursestart>
+		<coursedurationmonths>24</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1631051997899</id>
+		<name>Teegan</name>
+		<collegename>College of Engineering</collegename>
+		<deptname>Supply Chain Management</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>07/18/16</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1631093067199</id>
+		<name>Savannah</name>
+		<collegename>College of Engineering</collegename>
+		<deptname>Computer Science</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>10/18/15</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1680122445399</id>
+		<name>Maggie</name>
+		<collegename>College of Law</collegename>
+		<deptname>Supply Chain Management</deptname>
+		<programlevel>Graduate</programlevel>
+		<coursestart>07/02/16</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1632020903899</id>
+		<name>Malcolm</name>
+		<collegename>College of Law</collegename>
+		<deptname>Information Systems</deptname>
+		<programlevel>Graduate</programlevel>
+		<coursestart>04/27/16</coursestart>
+		<coursedurationmonths>24</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1681022706199</id>
+		<name>Chiquita</name>
+		<collegename>College of Engineering</collegename>
+		<deptname>Engineering Management</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>09/23/16</coursestart>
+		<coursedurationmonths>24</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1688071804499</id>
+		<name>Fatima</name>
+		<collegename>College of Engineering</collegename>
+		<deptname>Information Systems</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>03/24/16</coursestart>
+		<coursedurationmonths>24</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1633061436799</id>
+		<name>Drake</name>
+		<collegename>College of Professional Studies</collegename>
+		<deptname>Supply Chain Management</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>04/01/16</coursestart>
+		<coursedurationmonths>24</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1614071620399</id>
+		<name>Amethyst</name>
+		<collegename>College of Professional Studies</collegename>
+		<deptname>Supply Chain Management</deptname>
+		<programlevel>Graduate</programlevel>
+		<coursestart>07/11/16</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1627110993999</id>
+		<name>Melinda</name>
+		<collegename>College of Professional Studies</collegename>
+		<deptname>Engineering Management</deptname>
+		<programlevel>Graduate</programlevel>
+		<coursestart>03/20/16</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1671122530899</id>
+		<name>Honorato</name>
+		<collegename>College of Professional Studies</collegename>
+		<deptname>Computer Science</deptname>
+		<programlevel>Graduate</programlevel>
+		<coursestart>05/03/16</coursestart>
+		<coursedurationmonths>24</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1688080631099</id>
+		<name>Ferris</name>
+		<collegename>College of Engineering</collegename>
+		<deptname>Supply Chain Management</deptname>
+		<programlevel>Graduate</programlevel>
+		<coursestart>02/23/16</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1601081178599</id>
+		<name>Murphy</name>
+		<collegename>College of Law</collegename>
+		<deptname>Computer Science</deptname>
+		<programlevel>Graduate</programlevel>
+		<coursestart>06/05/16</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1634121838799</id>
+		<name>Samuel</name>
+		<collegename>College of Law</collegename>
+		<deptname>Computer Science</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>01/17/16</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1611030382999</id>
+		<name>Blaze</name>
+		<collegename>College of Engineering</collegename>
+		<deptname>Computer Science</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>12/20/15</coursestart>
+		<coursedurationmonths>24</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1678112921599</id>
+		<name>Lareina</name>
+		<collegename>College of Engineering</collegename>
+		<deptname>Engineering Management</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>05/12/16</coursestart>
+		<coursedurationmonths>24</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1680111544999</id>
+		<name>Brady</name>
+		<collegename>College of Engineering</collegename>
+		<deptname>Engineering Management</deptname>
+		<programlevel>Graduate</programlevel>
+		<coursestart>11/25/15</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1638072095899</id>
+		<name>Yen</name>
+		<collegename>College of Professional Studies</collegename>
+		<deptname>Supply Chain Management</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>09/24/16</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1643053094399</id>
+		<name>Anne</name>
+		<collegename>College of Engineering</collegename>
+		<deptname>Information Systems</deptname>
+		<programlevel>Graduate</programlevel>
+		<coursestart>08/19/16</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1673110741899</id>
+		<name>Alexis</name>
+		<collegename>College of Professional Studies</collegename>
+		<deptname>Engineering Management</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>08/17/16</coursestart>
+		<coursedurationmonths>24</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1631032626899</id>
+		<name>Malachi</name>
+		<collegename>College of Professional Studies</collegename>
+		<deptname>Engineering Management</deptname>
+		<programlevel>Graduate</programlevel>
+		<coursestart>07/22/16</coursestart>
+		<coursedurationmonths>24</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1644063020999</id>
+		<name>Colt</name>
+		<collegename>College of Law</collegename>
+		<deptname>Engineering Management</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>12/12/15</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1682021423599</id>
+		<name>Kasper</name>
+		<collegename>College of Engineering</collegename>
+		<deptname>Supply Chain Management</deptname>
+		<programlevel>Graduate</programlevel>
+		<coursestart>03/11/16</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1614040151599</id>
+		<name>Melissa</name>
+		<collegename>College of Engineering</collegename>
+		<deptname>Engineering Management</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>06/02/16</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1653060657799</id>
+		<name>Garrett</name>
+		<collegename>College of Engineering</collegename>
+		<deptname>Supply Chain Management</deptname>
+		<programlevel>Graduate</programlevel>
+		<coursestart>11/24/15</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1600052762999</id>
+		<name>Bethany</name>
+		<collegename>College of Engineering</collegename>
+		<deptname>Engineering Management</deptname>
+		<programlevel>Graduate</programlevel>
+		<coursestart>03/27/16</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1661051051999</id>
+		<name>Gretchen</name>
+		<collegename>College of Engineering</collegename>
+		<deptname>Information Systems</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>08/02/16</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1600041743499</id>
+		<name>Kennedy</name>
+		<collegename>College of Professional Studies</collegename>
+		<deptname>Information Systems</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>04/21/16</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1647062590799</id>
+		<name>Jolene</name>
+		<collegename>College of Professional Studies</collegename>
+		<deptname>Engineering Management</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>03/20/16</coursestart>
+		<coursedurationmonths>24</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1642012799699</id>
+		<name>Ian</name>
+		<collegename>College of Professional Studies</collegename>
+		<deptname>Information Systems</deptname>
+		<programlevel>Graduate</programlevel>
+		<coursestart>02/05/16</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1665071607699</id>
+		<name>Leilani</name>
+		<collegename>College of Professional Studies</collegename>
+		<deptname>Engineering Management</deptname>
+		<programlevel>Graduate</programlevel>
+		<coursestart>03/21/16</coursestart>
+		<coursedurationmonths>24</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1642032540999</id>
+		<name>Slade</name>
+		<collegename>College of Law</collegename>
+		<deptname>Supply Chain Management</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>07/24/16</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1664060845699</id>
+		<name>Quinlan</name>
+		<collegename>College of Law</collegename>
+		<deptname>Computer Science</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>07/30/16</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1653041051599</id>
+		<name>Ivy</name>
+		<collegename>College of Law</collegename>
+		<deptname>Computer Science</deptname>
+		<programlevel>Graduate</programlevel>
+		<coursestart>12/17/15</coursestart>
+		<coursedurationmonths>24</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1610012205699</id>
+		<name>Hedley</name>
+		<collegename>College of Law</collegename>
+		<deptname>Engineering Management</deptname>
+		<programlevel>Graduate</programlevel>
+		<coursestart>03/20/16</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1650070733499</id>
+		<name>Perry</name>
+		<collegename>College of Engineering</collegename>
+		<deptname>Computer Science</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>03/04/16</coursestart>
+		<coursedurationmonths>24</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1638072764699</id>
+		<name>Colt</name>
+		<collegename>College of Professional Studies</collegename>
+		<deptname>Computer Science</deptname>
+		<programlevel>Graduate</programlevel>
+		<coursestart>10/05/16</coursestart>
+		<coursedurationmonths>24</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1610041020599</id>
+		<name>Kermit</name>
+		<collegename>College of Engineering</collegename>
+		<deptname>Information Systems</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>01/30/16</coursestart>
+		<coursedurationmonths>24</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1683080250799</id>
+		<name>Wilma</name>
+		<collegename>College of Engineering</collegename>
+		<deptname>Engineering Management</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>03/10/16</coursestart>
+		<coursedurationmonths>24</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1652121256799</id>
+		<name>Jin</name>
+		<collegename>College of Law</collegename>
+		<deptname>Computer Science</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>09/02/16</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1660091721599</id>
+		<name>Akeem</name>
+		<collegename>College of Law</collegename>
+		<deptname>Supply Chain Management</deptname>
+		<programlevel>Graduate</programlevel>
+		<coursestart>11/17/15</coursestart>
+		<coursedurationmonths>24</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1693050431999</id>
+		<name>Leila</name>
+		<collegename>College of Engineering</collegename>
+		<deptname>Engineering Management</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>10/16/15</coursestart>
+		<coursedurationmonths>24</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1605081752999</id>
+		<name>Mechelle</name>
+		<collegename>College of Law</collegename>
+		<deptname>Engineering Management</deptname>
+		<programlevel>Graduate</programlevel>
+		<coursestart>03/20/16</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1629052595499</id>
+		<name>Hiram</name>
+		<collegename>College of Law</collegename>
+		<deptname>Computer Science</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>05/27/16</coursestart>
+		<coursedurationmonths>24</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1671121854299</id>
+		<name>Sydney</name>
+		<collegename>College of Engineering</collegename>
+		<deptname>Engineering Management</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>07/01/16</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1654073079199</id>
+		<name>Abra</name>
+		<collegename>College of Engineering</collegename>
+		<deptname>Engineering Management</deptname>
+		<programlevel>Graduate</programlevel>
+		<coursestart>01/22/16</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1668083035399</id>
+		<name>Neville</name>
+		<collegename>College of Professional Studies</collegename>
+		<deptname>Information Systems</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>02/05/16</coursestart>
+		<coursedurationmonths>24</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1631060500599</id>
+		<name>Summer</name>
+		<collegename>College of Engineering</collegename>
+		<deptname>Supply Chain Management</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>04/03/16</coursestart>
+		<coursedurationmonths>24</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1608120528599</id>
+		<name>Fredericka</name>
+		<collegename>College of Law</collegename>
+		<deptname>Computer Science</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>12/09/15</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1634121802999</id>
+		<name>Jack</name>
+		<collegename>College of Professional Studies</collegename>
+		<deptname>Computer Science</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>08/18/16</coursestart>
+		<coursedurationmonths>24</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1679082402499</id>
+		<name>Xaviera</name>
+		<collegename>College of Engineering</collegename>
+		<deptname>Supply Chain Management</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>01/18/16</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1643080386899</id>
+		<name>Mason</name>
+		<collegename>College of Engineering</collegename>
+		<deptname>Computer Science</deptname>
+		<programlevel>Graduate</programlevel>
+		<coursestart>11/01/15</coursestart>
+		<coursedurationmonths>24</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1655021288999</id>
+		<name>Jillian</name>
+		<collegename>College of Professional Studies</collegename>
+		<deptname>Engineering Management</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>03/08/16</coursestart>
+		<coursedurationmonths>24</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1612091019599</id>
+		<name>Tobias</name>
+		<collegename>College of Engineering</collegename>
+		<deptname>Engineering Management</deptname>
+		<programlevel>Graduate</programlevel>
+		<coursestart>11/09/15</coursestart>
+		<coursedurationmonths>24</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1662101050399</id>
+		<name>Chiquita</name>
+		<collegename>College of Engineering</collegename>
+		<deptname>Supply Chain Management</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>05/07/16</coursestart>
+		<coursedurationmonths>24</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1641031168099</id>
+		<name>Ginger</name>
+		<collegename>College of Professional Studies</collegename>
+		<deptname>Engineering Management</deptname>
+		<programlevel>Graduate</programlevel>
+		<coursestart>01/04/16</coursestart>
+		<coursedurationmonths>24</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1699111212299</id>
+		<name>Flynn</name>
+		<collegename>College of Engineering</collegename>
+		<deptname>Engineering Management</deptname>
+		<programlevel>Graduate</programlevel>
+		<coursestart>09/21/16</coursestart>
+		<coursedurationmonths>24</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1693021139899</id>
+		<name>Ferdinand</name>
+		<collegename>College of Professional Studies</collegename>
+		<deptname>Computer Science</deptname>
+		<programlevel>Graduate</programlevel>
+		<coursestart>08/02/16</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1643112635699</id>
+		<name>Deacon</name>
+		<collegename>College of Law</collegename>
+		<deptname>Information Systems</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>05/10/16</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1656121810699</id>
+		<name>McKenzie</name>
+		<collegename>College of Law</collegename>
+		<deptname>Engineering Management</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>02/26/16</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1699032499399</id>
+		<name>Yeo</name>
+		<collegename>College of Law</collegename>
+		<deptname>Supply Chain Management</deptname>
+		<programlevel>Graduate</programlevel>
+		<coursestart>12/16/15</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1687061638699</id>
+		<name>Leila</name>
+		<collegename>College of Law</collegename>
+		<deptname>Engineering Management</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>12/19/15</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1601071366899</id>
+		<name>Zoe</name>
+		<collegename>College of Engineering</collegename>
+		<deptname>Supply Chain Management</deptname>
+		<programlevel>Graduate</programlevel>
+		<coursestart>05/02/16</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1644061730199</id>
+		<name>Bernard</name>
+		<collegename>College of Professional Studies</collegename>
+		<deptname>Engineering Management</deptname>
+		<programlevel>Graduate</programlevel>
+		<coursestart>09/23/16</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1657041918299</id>
+		<name>Lucian</name>
+		<collegename>College of Law</collegename>
+		<deptname>Computer Science</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>08/18/16</coursestart>
+		<coursedurationmonths>24</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1696062316199</id>
+		<name>Blair</name>
+		<collegename>College of Law</collegename>
+		<deptname>Engineering Management</deptname>
+		<programlevel>Graduate</programlevel>
+		<coursestart>03/12/16</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1625081945699</id>
+		<name>Carol</name>
+		<collegename>College of Professional Studies</collegename>
+		<deptname>Engineering Management</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>09/29/16</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1695081128199</id>
+		<name>Martin</name>
+		<collegename>College of Professional Studies</collegename>
+		<deptname>Information Systems</deptname>
+		<programlevel>Graduate</programlevel>
+		<coursestart>09/27/16</coursestart>
+		<coursedurationmonths>24</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1657023008299</id>
+		<name>Garrett</name>
+		<collegename>College of Law</collegename>
+		<deptname>Computer Science</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>04/21/16</coursestart>
+		<coursedurationmonths>24</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1683061923499</id>
+		<name>Tanner</name>
+		<collegename>College of Professional Studies</collegename>
+		<deptname>Engineering Management</deptname>
+		<programlevel>Graduate</programlevel>
+		<coursestart>03/02/16</coursestart>
+		<coursedurationmonths>24</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1624030134299</id>
+		<name>Briar</name>
+		<collegename>College of Professional Studies</collegename>
+		<deptname>Information Systems</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>02/12/16</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1699112145599</id>
+		<name>Dolan</name>
+		<collegename>College of Professional Studies</collegename>
+		<deptname>Supply Chain Management</deptname>
+		<programlevel>Graduate</programlevel>
+		<coursestart>11/19/15</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1668071318399</id>
+		<name>Quinn</name>
+		<collegename>College of Professional Studies</collegename>
+		<deptname>Supply Chain Management</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>12/08/15</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1635070438299</id>
+		<name>Kaden</name>
+		<collegename>College of Professional Studies</collegename>
+		<deptname>Information Systems</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>05/09/16</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1699041572099</id>
+		<name>Richard</name>
+		<collegename>College of Engineering</collegename>
+		<deptname>Supply Chain Management</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>10/29/15</coursestart>
+		<coursedurationmonths>24</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1601060806799</id>
+		<name>Leah</name>
+		<collegename>College of Professional Studies</collegename>
+		<deptname>Engineering Management</deptname>
+		<programlevel>Graduate</programlevel>
+		<coursestart>07/06/16</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1678040514799</id>
+		<name>Grace</name>
+		<collegename>College of Professional Studies</collegename>
+		<deptname>Engineering Management</deptname>
+		<programlevel>Graduate</programlevel>
+		<coursestart>12/31/15</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1689010558099</id>
+		<name>Keith</name>
+		<collegename>College of Engineering</collegename>
+		<deptname>Computer Science</deptname>
+		<programlevel>Graduate</programlevel>
+		<coursestart>05/03/16</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1669081001899</id>
+		<name>Karly</name>
+		<collegename>College of Professional Studies</collegename>
+		<deptname>Computer Science</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>04/19/16</coursestart>
+		<coursedurationmonths>24</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1631020459199</id>
+		<name>Rigel</name>
+		<collegename>College of Professional Studies</collegename>
+		<deptname>Computer Science</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>06/27/16</coursestart>
+		<coursedurationmonths>48</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>1635122154599</id>
+		<name>Zorita</name>
+		<collegename>College of Engineering</collegename>
+		<deptname>Supply Chain Management</deptname>
+		<programlevel>Under Graduate</programlevel>
+		<coursestart>01/14/16</coursestart>
+		<coursedurationmonths>24</coursedurationmonths>
+	</Student>
+	<Student>
+		<id>16051130 6680</id>
+		<name>Natalie</name>
+		<collegename>01/15/16</collegename>
+		<deptname>1356</deptname>
+		<programlevel>1420</programlevel>
+		<coursestart>0</coursestart>
+		<coursedurationmonths>24</coursedurationmonths>	
+	</Student>
+</University>
+

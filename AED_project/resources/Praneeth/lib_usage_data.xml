@@ -1,0 +1,972 @@
+<?xml version="1.0" encoding="UTF-8" ?><library>
+	<Student>
+		<id>16051130 6680</id>
+		<name>Natalie</name>
+		<date>01/15/16</date>
+		<in_time>1356</in_time>
+		<out_time>1420</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+	<Student>
+		<id>16051130 6680</id>
+		<name>Natalie</name>
+		<date>02/15/16</date>
+		<in_time>1356</in_time>
+		<out_time>1420</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+
+	<Student>
+		<id>16051130 6680</id>
+		<name>Natalie</name>
+		<date>03/15/16</date>
+		<in_time>1356</in_time>
+		<out_time>1420</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+
+	<Student>
+		<id>16051130 6680</id>
+		<name>Natalie</name>
+		<date>04/15/16</date>
+		<in_time>1356</in_time>
+		<out_time>1420</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+
+	<Student>
+		<id>16800410 9982</id>
+		<name>Callum</name>
+		<date>10/16/15</date>
+		<in_time>2211</in_time>
+		<out_time>699</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16800410 9982</id>
+		<name>Callum</name>
+		<date>11/16/15</date>
+		<in_time>2211</in_time>
+		<out_time>699</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+
+	<Student>
+		<id>16800410 9982</id>
+		<name>Callum</name>
+		<date>12/16/15</date>
+		<in_time>2211</in_time>
+		<out_time>699</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+
+	<Student>
+		<id>16800410 9982</id>
+		<name>Callum</name>
+		<date>13/16/15</date>
+		<in_time>2211</in_time>
+		<out_time>699</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+
+	<Student>
+		<id>16630927 0715</id>
+		<name>Odette</name>
+		<date>02/22/16</date>
+		<in_time>684</in_time>
+		<out_time>879</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+	<Student>
+		<id>16410224 8665</id>
+		<name>Ulysses</name>
+		<date>03/20/16</date>
+		<in_time>435</in_time>
+		<out_time>884</out_time>
+		<is_group_study>1</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16521209 4717</id>
+		<name>Calvin</name>
+		<date>06/21/16</date>
+		<in_time>304</in_time>
+		<out_time>1830</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+	<Student>
+		<id>16990726 1821</id>
+		<name>Urielle</name>
+		<date>07/19/16</date>
+		<in_time>392</in_time>
+		<out_time>1335</out_time>
+		<is_group_study>1</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16050520 8017</id>
+		<name>Honorato</name>
+		<date>06/27/16</date>
+		<in_time>1463</in_time>
+		<out_time>629</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16490918 2323</id>
+		<name>Ingrid</name>
+		<date>01/11/16</date>
+		<in_time>617</in_time>
+		<out_time>1396</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16080301 4398</id>
+		<name>Grady</name>
+		<date>06/09/16</date>
+		<in_time>1459</in_time>
+		<out_time>718</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+	<Student>
+		<id>16740502 7561</id>
+		<name>Paloma</name>
+		<date>12/14/15</date>
+		<in_time>1603</in_time>
+		<out_time>538</out_time>
+		<is_group_study>1</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16530804 8015</id>
+		<name>Tiger</name>
+		<date>09/08/16</date>
+		<in_time>1072</in_time>
+		<out_time>535</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16351014 7063</id>
+		<name>Kaseem</name>
+		<date>04/28/16</date>
+		<in_time>1926</in_time>
+		<out_time>232</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16971111 4109</id>
+		<name>Amethyst</name>
+		<date>08/07/16</date>
+		<in_time>809</in_time>
+		<out_time>1139</out_time>
+		<is_group_study>1</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16410106 5110</id>
+		<name>Shay</name>
+		<date>09/19/16</date>
+		<in_time>1524</in_time>
+		<out_time>2150</out_time>
+		<is_group_study>1</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16521002 5812</id>
+		<name>Imani</name>
+		<date>08/11/16</date>
+		<in_time>536</in_time>
+		<out_time>876</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+	<Student>
+		<id>16970604 2067</id>
+		<name>Harlan</name>
+		<date>09/09/16</date>
+		<in_time>593</in_time>
+		<out_time>1012</out_time>
+		<is_group_study>1</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+	<Student>
+		<id>16800912 7112</id>
+		<name>Elizabeth</name>
+		<date>05/10/16</date>
+		<in_time>178</in_time>
+		<out_time>319</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+	<Student>
+		<id>16520820 1482</id>
+		<name>Chaim</name>
+		<date>07/30/16</date>
+		<in_time>1099</in_time>
+		<out_time>2347</out_time>
+		<is_group_study>1</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16960907 5735</id>
+		<name>Dawn</name>
+		<date>01/31/16</date>
+		<in_time>2198</in_time>
+		<out_time>565</out_time>
+		<is_group_study>1</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16930704 2888</id>
+		<name>Galvin</name>
+		<date>07/29/16</date>
+		<in_time>824</in_time>
+		<out_time>764</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16921030 5232</id>
+		<name>Anjolie</name>
+		<date>02/01/16</date>
+		<in_time>341</in_time>
+		<out_time>680</out_time>
+		<is_group_study>1</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+	<Student>
+		<id>16640814 2815</id>
+		<name>Shelly</name>
+		<date>05/22/16</date>
+		<in_time>1962</in_time>
+		<out_time>2105</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16111130 5106</id>
+		<name>Jin</name>
+		<date>01/16/16</date>
+		<in_time>1515</in_time>
+		<out_time>118</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+	<Student>
+		<id>16550616 2550</id>
+		<name>Dillon</name>
+		<date>08/29/16</date>
+		<in_time>757</in_time>
+		<out_time>972</out_time>
+		<is_group_study>1</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16121028 8757</id>
+		<name>Stacey</name>
+		<date>11/18/15</date>
+		<in_time>2093</in_time>
+		<out_time>211</out_time>
+		<is_group_study>1</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16950624 7759</id>
+		<name>Hedy</name>
+		<date>01/05/16</date>
+		<in_time>1927</in_time>
+		<out_time>1231</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+	<Student>
+		<id>16811105 5839</id>
+		<name>David</name>
+		<date>04/08/16</date>
+		<in_time>1473</in_time>
+		<out_time>1440</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16700706 7817</id>
+		<name>Giselle</name>
+		<date>06/18/16</date>
+		<in_time>1090</in_time>
+		<out_time>1022</out_time>
+		<is_group_study>1</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16600730 6639</id>
+		<name>Wendy</name>
+		<date>02/19/16</date>
+		<in_time>1670</in_time>
+		<out_time>1258</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+	<Student>
+		<id>16510222 2576</id>
+		<name>Thane</name>
+		<date>06/01/16</date>
+		<in_time>266</in_time>
+		<out_time>1650</out_time>
+		<is_group_study>1</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16230205 3653</id>
+		<name>Nerea</name>
+		<date>10/29/15</date>
+		<in_time>1943</in_time>
+		<out_time>888</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+	<Student>
+		<id>16331118 4984</id>
+		<name>Karina</name>
+		<date>07/27/16</date>
+		<in_time>1330</in_time>
+		<out_time>668</out_time>
+		<is_group_study>1</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16300529 7134</id>
+		<name>Maggy</name>
+		<date>10/27/15</date>
+		<in_time>902</in_time>
+		<out_time>2239</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+	<Student>
+		<id>16841128 0822</id>
+		<name>Blythe</name>
+		<date>01/28/16</date>
+		<in_time>1030</in_time>
+		<out_time>1452</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+	<Student>
+		<id>16070108 2679</id>
+		<name>Suki</name>
+		<date>06/30/16</date>
+		<in_time>0008</in_time>
+		<out_time>2312</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16631129 6575</id>
+		<name>Armando</name>
+		<date>08/13/16</date>
+		<in_time>0091</in_time>
+		<out_time>594</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+	<Student>
+		<id>16880108 0485</id>
+		<name>Xaviera</name>
+		<date>04/06/16</date>
+		<in_time>486</in_time>
+		<out_time>1757</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+	<Student>
+		<id>16501212 4961</id>
+		<name>Alec</name>
+		<date>03/31/16</date>
+		<in_time>900</in_time>
+		<out_time>409</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16880501 2377</id>
+		<name>Austin</name>
+		<date>05/16/16</date>
+		<in_time>0010</in_time>
+		<out_time>1753</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16520225 3117</id>
+		<name>Bruce</name>
+		<date>11/29/15</date>
+		<in_time>1832</in_time>
+		<out_time>714</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16830702 5349</id>
+		<name>May</name>
+		<date>02/04/16</date>
+		<in_time>748</in_time>
+		<out_time>2265</out_time>
+		<is_group_study>1</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+	<Student>
+		<id>16910908 6067</id>
+		<name>Hashim</name>
+		<date>03/05/16</date>
+		<in_time>283</in_time>
+		<out_time>996</out_time>
+		<is_group_study>1</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16040906 2593</id>
+		<name>Hannah</name>
+		<date>02/04/16</date>
+		<in_time>1512</in_time>
+		<out_time>1841</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+	<Student>
+		<id>16581219 7712</id>
+		<name>Valentine</name>
+		<date>09/02/16</date>
+		<in_time>1297</in_time>
+		<out_time>1960</out_time>
+		<is_group_study>1</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+	<Student>
+		<id>16430226 2003</id>
+		<name>Robert</name>
+		<date>10/12/15</date>
+		<in_time>1075</in_time>
+		<out_time>807</out_time>
+		<is_group_study>1</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+	<Student>
+		<id>16691230 5569</id>
+		<name>Amaya</name>
+		<date>08/05/16</date>
+		<in_time>109</in_time>
+		<out_time>1711</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+	<Student>
+		<id>16640921 7624</id>
+		<name>Jonas</name>
+		<date>05/03/16</date>
+		<in_time>2053</in_time>
+		<out_time>783</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16410911 7426</id>
+		<name>Jessica</name>
+		<date>12/08/15</date>
+		<in_time>780</in_time>
+		<out_time>761</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+	<Student>
+		<id>16450525 4930</id>
+		<name>Hilel</name>
+		<date>09/01/16</date>
+		<in_time>1592</in_time>
+		<out_time>2063</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+	<Student>
+		<id>16590621 7368</id>
+		<name>Timothy</name>
+		<date>08/31/16</date>
+		<in_time>1899</in_time>
+		<out_time>532</out_time>
+		<is_group_study>1</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+	<Student>
+		<id>16370925 2880</id>
+		<name>Aimee</name>
+		<date>09/17/16</date>
+		<in_time>169</in_time>
+		<out_time>582</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16710315 2208</id>
+		<name>Gail</name>
+		<date>08/07/16</date>
+		<in_time>1629</in_time>
+		<out_time>935</out_time>
+		<is_group_study>1</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16091216 1643</id>
+		<name>Erica</name>
+		<date>03/27/16</date>
+		<in_time>1696</in_time>
+		<out_time>2284</out_time>
+		<is_group_study>1</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+	<Student>
+		<id>16370716 5175</id>
+		<name>Alfonso</name>
+		<date>06/03/16</date>
+		<in_time>501</in_time>
+		<out_time>609</out_time>
+		<is_group_study>1</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+	<Student>
+		<id>16680306 3707</id>
+		<name>Charles</name>
+		<date>10/07/16</date>
+		<in_time>705</in_time>
+		<out_time>1272</out_time>
+		<is_group_study>1</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+	<Student>
+		<id>16230430 1910</id>
+		<name>Chaney</name>
+		<date>08/31/16</date>
+		<in_time>943</in_time>
+		<out_time>2344</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16570227 7426</id>
+		<name>Kaye</name>
+		<date>07/06/16</date>
+		<in_time>428</in_time>
+		<out_time>846</out_time>
+		<is_group_study>1</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16780829 4222</id>
+		<name>Odessa</name>
+		<date>04/28/16</date>
+		<in_time>1735</in_time>
+		<out_time>1211</out_time>
+		<is_group_study>1</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+	<Student>
+		<id>16341228 3586</id>
+		<name>Georgia</name>
+		<date>07/06/16</date>
+		<in_time>690</in_time>
+		<out_time>801</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16630417 3476</id>
+		<name>Libby</name>
+		<date>08/04/16</date>
+		<in_time>187</in_time>
+		<out_time>2147</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16330902 8706</id>
+		<name>Harrison</name>
+		<date>01/03/16</date>
+		<in_time>439</in_time>
+		<out_time>126</out_time>
+		<is_group_study>1</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+	<Student>
+		<id>16401228 8629</id>
+		<name>Lillian</name>
+		<date>05/11/16</date>
+		<in_time>202</in_time>
+		<out_time>635</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16420205 7818</id>
+		<name>Hayes</name>
+		<date>01/07/16</date>
+		<in_time>1560</in_time>
+		<out_time>140</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16570130 6960</id>
+		<name>Lisandra</name>
+		<date>09/29/16</date>
+		<in_time>1809</in_time>
+		<out_time>1170</out_time>
+		<is_group_study>1</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16770303 4442</id>
+		<name>Sydnee</name>
+		<date>06/01/16</date>
+		<in_time>1839</in_time>
+		<out_time>210</out_time>
+		<is_group_study>1</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16830808 9849</id>
+		<name>Emerson</name>
+		<date>04/17/16</date>
+		<in_time>1407</in_time>
+		<out_time>1094</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+	<Student>
+		<id>16480122 5790</id>
+		<name>Sloane</name>
+		<date>04/12/16</date>
+		<in_time>870</in_time>
+		<out_time>490</out_time>
+		<is_group_study>1</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+	<Student>
+		<id>16411127 3670</id>
+		<name>Sybil</name>
+		<date>12/22/15</date>
+		<in_time>2096</in_time>
+		<out_time>1552</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+	<Student>
+		<id>16920415 9413</id>
+		<name>Rebekah</name>
+		<date>04/28/16</date>
+		<in_time>1560</in_time>
+		<out_time>2166</out_time>
+		<is_group_study>1</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16250421 8344</id>
+		<name>Lane</name>
+		<date>05/16/16</date>
+		<in_time>1329</in_time>
+		<out_time>2075</out_time>
+		<is_group_study>1</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16920916 6835</id>
+		<name>Uta</name>
+		<date>02/07/16</date>
+		<in_time>0026</in_time>
+		<out_time>0760</out_time>
+		<is_group_study>1</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+	<Student>
+		<id>16380419 3898</id>
+		<name>Yuli</name>
+		<date>05/30/16</date>
+		<in_time>1370</in_time>
+		<out_time>424</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+	<Student>
+		<id>16861124 9031</id>
+		<name>Glenna</name>
+		<date>12/27/15</date>
+		<in_time>918</in_time>
+		<out_time>630</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+	<Student>
+		<id>16200510 0355</id>
+		<name>Bert</name>
+		<date>12/08/15</date>
+		<in_time>493</in_time>
+		<out_time>1527</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16820728 8187</id>
+		<name>Britanni</name>
+		<date>03/09/16</date>
+		<in_time>1308</in_time>
+		<out_time>2138</out_time>
+		<is_group_study>1</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16900609 5385</id>
+		<name>Cadman</name>
+		<date>06/24/16</date>
+		<in_time>893</in_time>
+		<out_time>1540</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16201209 3577</id>
+		<name>Barrett</name>
+		<date>06/19/16</date>
+		<in_time>494</in_time>
+		<out_time>1190</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16380309 2794</id>
+		<name>Ignacia</name>
+		<date>03/26/16</date>
+		<in_time>907</in_time>
+		<out_time>1826</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+	<Student>
+		<id>16201002 6827</id>
+		<name>Brenden</name>
+		<date>11/20/15</date>
+		<in_time>394</in_time>
+		<out_time>1625</out_time>
+		<is_group_study>1</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16541008 5566</id>
+		<name>Wanda</name>
+		<date>03/13/16</date>
+		<in_time>1588</in_time>
+		<out_time>1584</out_time>
+		<is_group_study>1</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+	<Student>
+		<id>16030811 7704</id>
+		<name>Whitney</name>
+		<date>08/13/16</date>
+		<in_time>1927</in_time>
+		<out_time>2014</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16030811 7704</id>
+		<name>Whitney</name>
+		<date>09/13/16</date>
+		<in_time>1927</in_time>
+		<out_time>2314</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+
+	<Student>
+		<id>16030225 3828</id>
+		<name>Kyra</name>
+		<date>08/14/16</date>
+		<in_time>544</in_time>
+		<out_time>830</out_time>
+		<is_group_study>1</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+	<Student>
+		<id>16411216 2112</id>
+		<name>Moana</name>
+		<date>02/01/16</date>
+		<in_time>1530</in_time>
+		<out_time>966</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16091207 3822</id>
+		<name>Farrah</name>
+		<date>10/04/16</date>
+		<in_time>1764</in_time>
+		<out_time>1139</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+	<Student>
+		<id>16951120 9885</id>
+		<name>Kelsey</name>
+		<date>01/01/16</date>
+		<in_time>1616</in_time>
+		<out_time>1897</out_time>
+		<is_group_study>1</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+	<Student>
+		<id>16980311 6210</id>
+		<name>Indira</name>
+		<date>08/01/16</date>
+		<in_time>2107</in_time>
+		<out_time>1052</out_time>
+		<is_group_study>1</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+	<Student>
+		<id>16281022 1610</id>
+		<name>Alexandra</name>
+		<date>06/18/16</date>
+		<in_time>1122</in_time>
+		<out_time>2159</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+	<Student>
+		<id>16351008 4142</id>
+		<name>Risa</name>
+		<date>12/27/15</date>
+		<in_time>999</in_time>
+		<out_time>1517</out_time>
+		<is_group_study>1</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+	<Student>
+		<id>16170427 3703</id>
+		<name>Nomlanga</name>
+		<date>06/12/16</date>
+		<in_time>1485</in_time>
+		<out_time>127</out_time>
+		<is_group_study>1</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16450125 4686</id>
+		<name>Shoshana</name>
+		<date>01/30/16</date>
+		<in_time>1970</in_time>
+		<out_time>680</out_time>
+		<is_group_study>1</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+	<Student>
+		<id>16180506 3995</id>
+		<name>Montana</name>
+		<date>05/09/16</date>
+		<in_time>900</in_time>
+		<out_time>524</out_time>
+		<is_group_study>1</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16000615 8893</id>
+		<name>Yoshio</name>
+		<date>08/28/16</date>
+		<in_time>1871</in_time>
+		<out_time>484</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+	<Student>
+		<id>16861021 1388</id>
+		<name>Lesley</name>
+		<date>03/05/16</date>
+		<in_time>1893</in_time>
+		<out_time>135</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+	<Student>
+		<id>16200329 6577</id>
+		<name>Cody</name>
+		<date>10/24/15</date>
+		<in_time>1034</in_time>
+		<out_time>730</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16010607 2523</id>
+		<name>Karina</name>
+		<date>06/16/16</date>
+		<in_time>494</in_time>
+		<out_time>1710</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+	<Student>
+		<id>16120508 9251</id>
+		<name>Melvin</name>
+		<date>04/03/16</date>
+		<in_time>807</in_time>
+		<out_time>1435</out_time>
+		<is_group_study>1</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16950501 5231</id>
+		<name>Dorian</name>
+		<date>04/23/16</date>
+		<in_time>1230</in_time>
+		<out_time>2021</out_time>
+		<is_group_study>1</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+	<Student>
+		<id>16431230 3219</id>
+		<name>Igor</name>
+		<date>04/26/16</date>
+		<in_time>1977</in_time>
+		<out_time>2278</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+	<Student>
+		<id>16850327 6993</id>
+		<name>Maryam</name>
+		<date>08/02/16</date>
+		<in_time>785</in_time>
+		<out_time>1362</out_time>
+		<is_group_study>1</is_group_study>
+		<is_Ruby>1</is_Ruby>
+	</Student>
+	<Student>
+		<id>16140221 5519</id>
+		<name>Cameran</name>
+		<date>11/17/15</date>
+		<in_time>1105</in_time>
+		<out_time>1058</out_time>
+		<is_group_study>0</is_group_study>
+		<is_Ruby>0</is_Ruby>
+	</Student>
+</library>
